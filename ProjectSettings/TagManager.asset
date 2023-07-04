@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UIManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Laser
+  - Missile
+  - DetectionBox
+  - ShieldEnemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2070539063
+    locked: 0
+  - name: Projectiles
+    uniqueID: 1551797873
+    locked: 0
+  - name: Enemies
+    uniqueID: 2623928923
+    locked: 0
+  - name: Player
+    uniqueID: 3231311491
+    locked: 0
+  - name: UI
+    uniqueID: 2719250629
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

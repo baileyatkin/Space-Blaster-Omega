@@ -1,0 +1,5 @@
+Final Score: 585
+Time Played: 0 minutes and 59.0000009536743 seconds.
+Difficulty: Hard
+Wave 1 Average Score per Minute: 605.1724
+Final Average Score per Minute: 594.9152
